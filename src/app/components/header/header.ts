@@ -108,6 +108,6 @@ import { Component } from '@angular/core';
     }
   `]
 })
-export class Header {
+export class HeaderComponent {
 
 }
